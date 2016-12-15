@@ -1,0 +1,24 @@
+Installation
+
+1. osx
+
+
+$ brew install pyqt
+$ brew install pyqwt
+
+python modules
+$ sudo pip install gpxpy
+$ sudo pip install bitstring
+$ sudo pip install suds
+$ sudo pip install kafka-python
+
+2. ubuntu
+
+$ sudo apt-get install python-qt4 
+$ sudo apt-get install python-qwt5-qt4
+
+python modules
+$ sudo pip install gpxpy
+$ sudo pip install bitstring
+$ sudu pip install suds
+$ sudo pip install kafka-python
